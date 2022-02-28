@@ -1,0 +1,9 @@
+<html>
+<head>
+   <title>about batsman</title>
+</head>
+<body>
+   <p></strong>Batman<strong> is a fictional comic character created by artist Bob Kane and writer Bill Finger.
+      Batman first appeared in DC comics in the year 139 and soon became popular</p>
+</body>
+</html>

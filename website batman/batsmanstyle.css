@@ -1,0 +1,136 @@
+body
+{
+
+   font-family:Roboto;
+   font-size:16px;
+   margin:auto;
+   max-width:1000px;
+}
+h4{
+  font:italic small-caps bolder 28px arial, sans-serif;
+}
+.box
+  {
+     display:inline-block;
+     width:50%;
+     float:left;
+  }
+.list_box
+  {
+     width:100%;
+     overflow:hidden;
+  }
+#image
+   {
+     height:120px;
+     width:120px;
+     float:left;
+     padding: 0px 20px 20px 20px;
+   }
+#identity
+  {
+     overflow:none;
+  }
+#background-image
+  {
+     background-image:url("bat_cover.jpg");
+     height:350px;
+     padding-top:30px;
+     color:#fff;
+     margin-top=25px;
+  }
+#content 
+  {
+      background-color:rgba(0,0,0,0.7);
+      max-width:450px;
+      padding:30px 20px;
+      margin-top:50px;
+}
+table
+   {
+      border: 1px solid;
+      width: 100%;
+ } 
+th,td
+    {
+       padding:15px;
+       border:1px solid #a4a4a4;
+       height: 30px;
+     }    
+nav
+ {
+     list-style-type:none;
+     margin:0;
+     padding:0;
+}
+
+.logo
+   {
+      float:left;
+}
+#header
+   {
+         padding: 30px 0px;
+         border-bottom:1px solid;
+}
+.ab
+    {
+        display:block;
+        color:#666;
+        padding:5px 10px;
+        text-decoration:none;
+        float:right;
+}
+#hope
+     {
+         border:1px solid white;
+         width:100%;
+}
+#atr,#tra
+      {
+           padding:15px;
+           border:1px solid white;
+           height:30px;
+       }
+.container
+       {
+           padding:20px;
+           margin:auto;
+           width:100%;
+           overflow-x:hidden;
+      }
+@media (min-width:320px;)
+    {
+          .container
+              {
+                  width:320px;
+             }
+    }        
+@media (min-width:481px;)
+    {
+          .container
+              {
+                  width:481px;
+             }
+    }   
+@media (min-width:641px;)
+    {
+          .container
+              {
+                  width:641px;
+             }
+    }             
+@media (min-width:961px;)
+    {
+          .container
+              {
+                  width:961px;
+             }
+    }        
+@media (min-width:1000px;)
+    {
+          .container
+              {
+                  width:1000px;
+             }
+    }        
